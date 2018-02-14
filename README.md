@@ -1,2 +1,3 @@
 # hello_world
 primer repositorio que subo ......
+hola soy janluy soy estudiante de ingenieria de sistemas y quiero aprender cada dia mas del tema de la programacion 
